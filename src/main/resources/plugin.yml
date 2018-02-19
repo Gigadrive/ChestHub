@@ -1,0 +1,18 @@
+name: ChestHub
+authors: [Zeryther]
+website: https://thechest.eu
+version: 1.0
+main: eu.thechest.chesthub.ChestHub
+depend: [ChestAPI,HolographicDisplays]
+
+commands:
+  setlocation:
+    description: define lobby location
+  petname:
+    description: give your pet a name
+  levelrewards:
+    description: levelrewards
+  stats:
+    description: stats
+  resettokens:
+    description: reset tokens
